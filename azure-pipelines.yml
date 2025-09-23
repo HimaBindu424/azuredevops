@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: azurerunner
+  name: Default
 
 steps:
 - script: ls
