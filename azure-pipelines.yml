@@ -11,7 +11,7 @@ pool:
 
 steps:
 - script: ls
-  script: hostname
+ 
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
